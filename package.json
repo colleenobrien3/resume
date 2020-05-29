@@ -1,0 +1,14 @@
+{
+  "name": "colleen-o-brien_resume",
+  "version": "1.0.0",
+  "description": "an impressive resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "find-talent": "./index.js"
+  }
+}

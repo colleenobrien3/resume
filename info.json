@@ -1,0 +1,30 @@
+{
+  "name": "Colleen O'Brien",
+  "website": "https://colleen-o-brien.com",
+  "linkedin": "https://www.linkedin.com/in/colleen-o-brien3/",
+  "github": "https://github.com/colleenobrien3",
+  "email": "colleen3117@gmail.com",
+  "resume": "https://drive.google.com/file/d/14iM2TNWB55JFCcDAKEyfGAbA0Wo38hru/view?usp=sharing",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "Git"
+  ],
+  "skills": [
+    "full stack web development",
+    "building REST APIs",
+    "database management",
+    "GitHub version control",
+    "asynchronous programming",
+    "time management",
+    "communication",
+    "critical thinking"
+  ],
+  "hobbies": ["reading", "working out", "playing the guitar"]
+}
